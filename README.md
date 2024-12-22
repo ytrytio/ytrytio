@@ -1,5 +1,9 @@
 # My Portfolio
 
+![](https://raw.githubusercontent.com/ytrytio/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ytrtytio/stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 ## 💻 About Me
 
 Hi, I'm **Slava**, known online as **GLOR**. I’ve been programming for several years, specializing in creating Telegram bots and developing various projects using Python and other technologies.
