@@ -1,7 +1,7 @@
 # My Portfolio
 
 ![](https://raw.githubusercontent.com/ytrytio/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ytrtytio/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ytrytio/stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 💻 About Me
 
